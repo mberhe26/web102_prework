@@ -1,6 +1,6 @@
 # WEB102 Prework - *SMC*
 
-Submitted by: **Mastewal**
+Submitted by: **Mastewal Berhe**
 
 **SMC** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
