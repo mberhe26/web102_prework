@@ -112,10 +112,6 @@ function showAllGames() {
 
 }
 
-// select each button in the "Our Games" section
-const unfundedBtn = document.getElementById("unfunded-btn");
-const fundedBtn = document.getElementById("funded-btn");
-const allBtn = document.getElementById("all-btn");
 
 // add event listeners with the correct functions to each button
 
