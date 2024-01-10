@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing' title='Gif prework' width='' alt='Gif prework' />
+<img src='https://github.com/mberhe26/web102_prework/assets/127989021/e5dfe4c1-0a04-4fea-b54b-f81b780f5385' width='' alt='Gif prework' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Licecap  
