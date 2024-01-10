@@ -21,6 +21,13 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center; 
+    
+    cursor: pointer;
+    transition: box-shadow 0.3s ease-in-out;
+}
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -39,12 +46,15 @@ body {
 #games-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: center;
+    
 }
+
 
 .game-img {
     width: 100%;
-    border-radius: 5px;
+    height: auto;
+    border-radius: 7px;
     box-shadow: 0 0 10px #FFFFFF;
 }
 
@@ -52,9 +62,31 @@ body {
     background-color: #FFFFFF;
     padding: 1%;
     margin: 1%;
-    width: 300px;
+    width: 250px;
+    height: 400px; 
     text-align: center;
     border-radius: 7px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between; 
+}
+
+
+
+.game-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 7px;
+    box-shadow: 0 0 10px #FFFFFF;
+}
+
+.game-card h1 {
+    font-size: 15px; 
+}
+.game-card h1,
+.game-card p,
+.game-card .backers {
+   margin-bottom: 30px;
 }
 
 .game-card:hover {
