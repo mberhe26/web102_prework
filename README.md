@@ -1,4 +1,4 @@
-# WEB102 Prework - *SMC*
+#  Sea Monster Crowdfunding
 
 Submitted by: **Mastewal Berhe**
 
